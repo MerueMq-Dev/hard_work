@@ -1,7 +1,4 @@
 # Отчёт: Примеси (Mixins) в C#
-### Default Interface Methods на примере доменных классов проекта Loyalty
-
----
 
 ## Введение
 
